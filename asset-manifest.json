@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/m-reyes-h/weather/static/css/main.46665dd6.chunk.css",
+    "main.js": "/m-reyes-h/weather/static/js/main.546384a7.chunk.js",
+    "main.js.map": "/m-reyes-h/weather/static/js/main.546384a7.chunk.js.map",
+    "runtime-main.js": "/m-reyes-h/weather/static/js/runtime-main.9c38bd17.js",
+    "runtime-main.js.map": "/m-reyes-h/weather/static/js/runtime-main.9c38bd17.js.map",
+    "static/js/2.6f3fe080.chunk.js": "/m-reyes-h/weather/static/js/2.6f3fe080.chunk.js",
+    "static/js/2.6f3fe080.chunk.js.map": "/m-reyes-h/weather/static/js/2.6f3fe080.chunk.js.map",
+    "index.html": "/m-reyes-h/weather/index.html",
+    "precache-manifest.8cc93d4f6b52359a24862042fbc76b09.js": "/m-reyes-h/weather/precache-manifest.8cc93d4f6b52359a24862042fbc76b09.js",
+    "service-worker.js": "/m-reyes-h/weather/service-worker.js",
+    "static/css/main.46665dd6.chunk.css.map": "/m-reyes-h/weather/static/css/main.46665dd6.chunk.css.map",
+    "static/js/2.6f3fe080.chunk.js.LICENSE.txt": "/m-reyes-h/weather/static/js/2.6f3fe080.chunk.js.LICENSE.txt",
+    "static/media/broken.svg": "/m-reyes-h/weather/static/media/broken.fc726b19.svg",
+    "static/media/cloud.svg": "/m-reyes-h/weather/static/media/cloud.33713b75.svg",
+    "static/media/foga.svg": "/m-reyes-h/weather/static/media/foga.28e64f45.svg",
+    "static/media/fogb.svg": "/m-reyes-h/weather/static/media/fogb.0bd1fcfd.svg",
+    "static/media/fogc.svg": "/m-reyes-h/weather/static/media/fogc.efdbdb2a.svg",
+    "static/media/inner.svg": "/m-reyes-h/weather/static/media/inner.f1bb11cb.svg",
+    "static/media/moon.svg": "/m-reyes-h/weather/static/media/moon.3ced1b10.svg",
+    "static/media/out.svg": "/m-reyes-h/weather/static/media/out.ad9ebae1.svg",
+    "static/media/outer.svg": "/m-reyes-h/weather/static/media/outer.00996941.svg",
+    "static/media/rain.svg": "/m-reyes-h/weather/static/media/rain.e7b37539.svg",
+    "static/media/star.svg": "/m-reyes-h/weather/static/media/star.89186888.svg",
+    "static/media/sunInner.svg": "/m-reyes-h/weather/static/media/sunInner.4f852b4d.svg",
+    "static/media/sunOuter.svg": "/m-reyes-h/weather/static/media/sunOuter.46c75ba3.svg",
+    "static/media/thunder.svg": "/m-reyes-h/weather/static/media/thunder.35c7a5a3.svg",
+    "static/media/umbrella.3bf744f4.svg": "/m-reyes-h/weather/static/media/umbrella.3bf744f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c38bd17.js",
+    "static/js/2.6f3fe080.chunk.js",
+    "static/css/main.46665dd6.chunk.css",
+    "static/js/main.546384a7.chunk.js"
+  ]
+}
