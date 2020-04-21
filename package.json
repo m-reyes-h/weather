@@ -2,7 +2,6 @@
   "name": "weather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/m-reyes-h/weather",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -16,7 +15,6 @@
     "xml-js": "^1.6.11"
   },
   "scripts": {
-    
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
